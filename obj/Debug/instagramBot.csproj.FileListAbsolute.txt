@@ -1,0 +1,52 @@
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.Form1.resources
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\instagramBot.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\instagramBot.exe
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\instagramBot.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\WebDriver.dll
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\WebDriver.Support.dll
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\WebDriver.xml
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\WebDriver.Support.xml
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagra.E99C910D.Up2Date
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.exe
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.Form2.resources
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.Form3.resources
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\instagramBot.exe.manifest
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\bin\Debug\instagramBot.application
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.exe.manifest
+C:\Users\ahmet\OneDrive\Masaüstü\C#\instagramBot\instagramBot\obj\Debug\instagramBot.application
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\instagramBot.exe.config
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\instagramBot.exe.manifest
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\instagramBot.application
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\instagramBot.exe
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\instagramBot.pdb
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\WebDriver.dll
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\WebDriver.Support.dll
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\WebDriver.xml
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\bin\Debug\WebDriver.Support.xml
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.AssemblyReference.cache
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.Form1.resources
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.Form2.resources
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.Form3.resources
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.Properties.Resources.resources
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.GenerateResource.cache
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.exe.manifest
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.application
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagra.E99C910D.Up2Date
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.exe
+C:\Users\Ahmet Talha\Desktop\instagramBot\instagramBot\obj\Debug\instagramBot.pdb
